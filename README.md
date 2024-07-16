@@ -5,7 +5,7 @@ API для мобильного приложения, в котором поле
 
 ## Технологии
 - Python 3.9
-- Django 3.x
+- Django 4.2
 - Django REST Framework
 - PostgreSQL
 
