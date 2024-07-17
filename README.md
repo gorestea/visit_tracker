@@ -15,14 +15,14 @@ API для мобильного приложения, в котором поле
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-repo/visit-tracker.git
+    git clone https://github.com/gorestea/visit_tracker
     cd visit-tracker
     ```
 
 2. Создайте виртуальное окружение и активируйте его:
     ```bash
     python3 -m venv venv
-    source venv/bin/activate  # Для Windows используйте `venv\Scripts\activate`
+    source venv/bin/activate
     ```
 
 3. Установите зависимости:
@@ -56,11 +56,11 @@ API для мобильного приложения, в котором поле
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-repo/visit-tracker.git
+    git clone https://github.com/gorestea/visit_tracker
     cd visit-tracker
     ```
 
-2. Создайте файл `.env` на основе `.env.example` и настройте его:
+2. Настройте `.env`::
     ```ini
     DEBUG=True
     SECRET_KEY=your_secret_key
